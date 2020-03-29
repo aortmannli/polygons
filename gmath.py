@@ -16,4 +16,3 @@ def dot_product(a, b):
 #point is located at index i in polygons
 def calculate_normal(polygons, i):
     return None
-© 2020 GitHub, Inc.
